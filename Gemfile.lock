@@ -48,8 +48,8 @@ GIT
 
 GIT
   remote: git://github.com/travis-ci/travis-core.git
-  revision: 3a23c3d2103878225a79a977b7a2e814de0db8fc
-  branch: te-dev
+  revision: 2b2042445b39437c7af59dd9a462a2bb654ffe1e
+  branch: fix_cache_s3_settings
   specs:
     travis-core (0.0.1)
       actionmailer (~> 3.2.19)
